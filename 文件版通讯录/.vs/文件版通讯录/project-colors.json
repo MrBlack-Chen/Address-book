@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6de61c5f-a7d3-447c-974c-0192ed493d7a": {
+      "ProjectGuid": "6de61c5f-a7d3-447c-974c-0192ed493d7a",
+      "DisplayName": "文件版通讯录",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
